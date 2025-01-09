@@ -1,4 +1,4 @@
-# Project Title: Multi-Agent System for Anomaly Detection and Reporting
+# Project Title: Anomaly Detection System
 
 ## Overview
 This project involves building a multi-agent system leveraging Large Language Models (LLMs) to perform anomaly detection, analysis, and reporting. The system is designed to streamline the process of identifying and summarizing anomalies in data, generating SQL queries, creating visualizations, and producing high-level insights in report format.
